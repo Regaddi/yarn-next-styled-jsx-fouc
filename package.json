@@ -1,0 +1,12 @@
+{
+  "name": "yarn-next-styled-jsx-fouc",
+  "version": "1.0.0",
+  "description": "A demo repo to showcase a FOUC when using different versions of styled-jsx.",
+  "main": "index.js",
+  "author": "Christian Stuff <christian@daily.co>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
